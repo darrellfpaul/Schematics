@@ -1,0 +1,105 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ee98094 rev a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\dfpaul\documents\payloads\36.289 didkovsky\schematics\ee98094 rev a.dsn")
+      (Path "Design Resources"
+         "c:\users\dfpaul\documents\payloads\36.289 didkovsky\schematics\ee98094 rev a.dsn"
+         "Electrical Power Systems")
+      (Path "Design Resources"
+         "c:\users\dfpaul\documents\payloads\36.289 didkovsky\schematics\ee98094 rev a.dsn"
+         "Interface Control")
+      (Path "Design Resources"
+         "c:\users\dfpaul\documents\payloads\36.289 didkovsky\schematics\ee98094 rev a.dsn"
+         "Test Harness")
+      (Path "Design Resources"
+         "c:\users\dfpaul\documents\payloads\36.289 didkovsky\schematics\ee98094 rev a.dsn"
+         "TM Monitor Boxes")
+      (Select "Design Resources"
+         "c:\users\dfpaul\documents\payloads\36.289 didkovsky\schematics\ee98094 rev a.dsn"
+         "Electrical Power Systems" "54_Exp Power System"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 601"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1613 75 714")
+        (Scroll "214 412")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "01_Analog1 Filter Decks"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1638 100 739")
+        (Scroll "214 613")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "52_TM 2 Power Sys"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1663 125 764")
+        (Scroll "0 743")
+        (Zoom "98")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "99_Revisions"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 200 1788 200 729")
+        (Scroll "204 241")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "02_Analog2 Async 1 Command Deck"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1763 175 704")
+        (Scroll "204 686")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "58 WFF93 Command Uplink System"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 200 1788 200 729")
+        (Scroll "207 333")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "54_Exp Power System"))))

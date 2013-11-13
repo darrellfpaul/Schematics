@@ -1,0 +1,204 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ee98094 rev a.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (BOM_Scope "0")
+    (BOM_Mode "1")
+    (BOM_Report_File "C:\USERS\DFPAUL\DOCUMENTS\EE98094.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\DFPAUL\DOCUMENTS\36.289 JUDGE\SCHEMATICS\EE98094 REV A.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "TRUE")
+    (EXPORT_Scope "0")
+    (EXPORT_Contents "0")
+    (EXPORT_File_Name
+       "C:\USERS\DFPAUL\DOCUMENTS\36.289 JUDGE\SCHEMATICS\EE98094 Instance.EXP"))
+  (Folder "Outputs"
+    (File ".\ee98094 rev a.bom"
+      (Type "Report"))
+    (File "c:\users\dfpaul\documents\ee98094 rev a.bom"
+      (Type "Report"))
+    (File "c:\users\dfpaul\documents\ee98094.bom"
+      (Type "Report"))
+    (File ".\ee98094 rev a.exp"
+      (Type "Report"))
+    (File ".\ee98094 instance.exp"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 518"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1688 125 676")
+        (Scroll "0 0")
+        (Zoom "100"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "TM Monitor Boxes")
+      (Page "14_AUX3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1713 150 701")
+        (Scroll "0 0")
+        (Zoom "100"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "TM Monitor Boxes")
+      (Page "15_AUX2_2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1738 175 726")
+        (Scroll "492 674")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "54_Exp Power System"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1312 25 476")
+        (Scroll "214 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "06_Async 2 Deck Exp Data"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1337 50 501")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "58 WFF93 Command Uplink System"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1362 75 526")
+        (Scroll "0 720")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "98_ICD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1387 100 551")
+        (Scroll "151 254")
+        (Zoom "80")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "99_Revisions"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1412 125 576")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "04_Analog 3 Deck SPARCS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1437 150 601")
+        (Scroll "1306 1112")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "51_TM 1 Power Sys"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1563 0 551")
+        (Scroll "0 511")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "03_Async3 Deck SPARCS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1588 25 576")
+        (Scroll "109 128")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "05_Parallel1 Deck"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1663 100 651")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\DFPAUL\DOCUMENTS\PAYLOADS\36.289 DIDKOVSKY\SCHEMATICS\EE98094 REV A.DSN")
+      (Schematic "Electrical Power Systems")
+      (Page "52_TM 2 Power Sys")))
+  (PartMRUSelector
+    ("Bus (37 Pin)"
+      (FullPartName "Bus (37 Pin).Normal")
+      (LibraryName "Y:\NASROC.OLB")
+      (DeviceIndex "0"))
+    ("Interface-P (DCMA-37S)"
+      (FullPartName "Interface-P (DCMA-37S).Normal")
+      (LibraryName "Y:\NASROC.OLB")
+      (DeviceIndex "0"))
+    ("Electrical Systems Diode Plug"
+      (FullPartName "Electrical Systems Diode Plug-1-1.Normal")
+      (LibraryName "Y:\NASROC.OLB")
+      (DeviceIndex "0"))
+    ("Interface-P (PT06E-14-19P)"
+      (FullPartName "Interface-P (PT06E-14-19P).Normal")
+      (LibraryName "Y:\NASROC.OLB")
+      (DeviceIndex "0"))
+    ("Interface-P (DBMA-25P)"
+      (FullPartName "Interface-P (DBMA-25P).Normal")
+      (LibraryName "Y:\NASROC.OLB")
+      (DeviceIndex "0"))
+    ("Interface-P (DBMA-25S)"
+      (FullPartName "Interface-P (DBMA-25S).Normal")
+      (LibraryName "Y:\NASROC.OLB")
+      (DeviceIndex "0"))))
